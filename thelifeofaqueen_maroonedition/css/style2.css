@@ -1,0 +1,51 @@
+h1{
+	text-align: center;
+	font-style: italic;
+	font-size: 350%;
+	padding-top: 5%;
+	padding-bottom: 2%;
+	color: rgb(255, 255, 255);   
+}
+
+@media screen and (max-width: 900px){
+	h1{
+	text-align: center;
+	font-style: italic;
+	font-size: 350%;
+	padding-top: 15%;
+	padding-bottom: 2%;
+	color: rgb(255, 255, 255);   
+    }
+}
+
+nav{
+	font-size: 125%;
+}
+
+a{
+	color: rgb(0, 0, 0);
+	text-decoration: none;
+	font-style: italic;
+}
+
+
+body{
+	margin-top: 4%;
+	background-image: url(../imgs/cover.jpg);
+	color: rgb(255, 255, 255);
+}
+
+img{
+	width: 100%;
+	height: 100%;
+	margin: 0%;
+	padding: 1%;
+}
+
+footer{
+	font-size: 110%;
+	color: rgb(0, 0, 0);
+	text-decoration: none;
+	font-style: italic;
+	text-align: center;
+}
